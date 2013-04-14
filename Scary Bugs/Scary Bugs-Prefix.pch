@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Scary Bugs' target in the 'Scary Bugs' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
