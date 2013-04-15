@@ -13,6 +13,19 @@
 		14CAC67C171B462C005EA308 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC67A171B462C005EA308 /* Credits.rtf */; };
 		14CAC67F171B462C005EA308 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CAC67E171B462C005EA308 /* AppDelegate.m */; };
 		14CAC682171B462D005EA308 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC680171B462D005EA308 /* MainMenu.xib */; };
+		14CAC68B171B46E6005EA308 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CAC689171B46E6005EA308 /* MasterViewController.m */; };
+		14CAC68C171B46E6005EA308 /* MasterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC68A171B46E6005EA308 /* MasterViewController.xib */; };
+		14CAC68F171B4997005EA308 /* ScaryBugData.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CAC68E171B4997005EA308 /* ScaryBugData.m */; };
+		14CAC692171B4A5F005EA308 /* ScaryBugDoc.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CAC691171B4A5F005EA308 /* ScaryBugDoc.m */; };
+		14CAC69D171B4CCB005EA308 /* attribution.txt in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC694171B4CCB005EA308 /* attribution.txt */; };
+		14CAC69E171B4CCB005EA308 /* centipede.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC695171B4CCB005EA308 /* centipede.jpg */; };
+		14CAC69F171B4CCB005EA308 /* centipedeThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC696171B4CCB005EA308 /* centipedeThumb.jpg */; };
+		14CAC6A0171B4CCB005EA308 /* ladybug.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC697171B4CCB005EA308 /* ladybug.jpg */; };
+		14CAC6A1171B4CCB005EA308 /* ladybugThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC698171B4CCB005EA308 /* ladybugThumb.jpg */; };
+		14CAC6A2171B4CCB005EA308 /* potatoBug.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC699171B4CCB005EA308 /* potatoBug.jpg */; };
+		14CAC6A3171B4CCB005EA308 /* potatoBugThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC69A171B4CCB005EA308 /* potatoBugThumb.jpg */; };
+		14CAC6A4171B4CCB005EA308 /* wolfSpider.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC69B171B4CCB005EA308 /* wolfSpider.jpg */; };
+		14CAC6A5171B4CCB005EA308 /* wolfSpiderThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14CAC69C171B4CCB005EA308 /* wolfSpiderThumb.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +42,22 @@
 		14CAC67D171B462C005EA308 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		14CAC67E171B462C005EA308 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		14CAC681171B462D005EA308 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		14CAC688171B46E6005EA308 /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
+		14CAC689171B46E6005EA308 /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
+		14CAC68A171B46E6005EA308 /* MasterViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MasterViewController.xib; sourceTree = "<group>"; };
+		14CAC68D171B4996005EA308 /* ScaryBugData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScaryBugData.h; sourceTree = "<group>"; };
+		14CAC68E171B4997005EA308 /* ScaryBugData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScaryBugData.m; sourceTree = "<group>"; };
+		14CAC690171B4A5F005EA308 /* ScaryBugDoc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScaryBugDoc.h; sourceTree = "<group>"; };
+		14CAC691171B4A5F005EA308 /* ScaryBugDoc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScaryBugDoc.m; sourceTree = "<group>"; };
+		14CAC694171B4CCB005EA308 /* attribution.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = attribution.txt; sourceTree = "<group>"; };
+		14CAC695171B4CCB005EA308 /* centipede.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = centipede.jpg; sourceTree = "<group>"; };
+		14CAC696171B4CCB005EA308 /* centipedeThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = centipedeThumb.jpg; sourceTree = "<group>"; };
+		14CAC697171B4CCB005EA308 /* ladybug.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ladybug.jpg; sourceTree = "<group>"; };
+		14CAC698171B4CCB005EA308 /* ladybugThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ladybugThumb.jpg; sourceTree = "<group>"; };
+		14CAC699171B4CCB005EA308 /* potatoBug.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = potatoBug.jpg; sourceTree = "<group>"; };
+		14CAC69A171B4CCB005EA308 /* potatoBugThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = potatoBugThumb.jpg; sourceTree = "<group>"; };
+		14CAC69B171B4CCB005EA308 /* wolfSpider.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wolfSpider.jpg; sourceTree = "<group>"; };
+		14CAC69C171B4CCB005EA308 /* wolfSpiderThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wolfSpiderThumb.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +75,10 @@
 		14CAC65F171B462A005EA308 = {
 			isa = PBXGroup;
 			children = (
+				14CAC693171B4CCB005EA308 /* ScaryBugs */,
+				14CAC688171B46E6005EA308 /* MasterViewController.h */,
+				14CAC689171B46E6005EA308 /* MasterViewController.m */,
+				14CAC68A171B46E6005EA308 /* MasterViewController.xib */,
 				14CAC671171B462B005EA308 /* Scary Bugs */,
 				14CAC66A171B462B005EA308 /* Frameworks */,
 				14CAC669171B462B005EA308 /* Products */,
@@ -84,6 +117,10 @@
 			children = (
 				14CAC67D171B462C005EA308 /* AppDelegate.h */,
 				14CAC67E171B462C005EA308 /* AppDelegate.m */,
+				14CAC68D171B4996005EA308 /* ScaryBugData.h */,
+				14CAC68E171B4997005EA308 /* ScaryBugData.m */,
+				14CAC690171B4A5F005EA308 /* ScaryBugDoc.h */,
+				14CAC691171B4A5F005EA308 /* ScaryBugDoc.m */,
 				14CAC680171B462D005EA308 /* MainMenu.xib */,
 				14CAC672171B462B005EA308 /* Supporting Files */,
 			);
@@ -100,6 +137,22 @@
 				14CAC67A171B462C005EA308 /* Credits.rtf */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		14CAC693171B4CCB005EA308 /* ScaryBugs */ = {
+			isa = PBXGroup;
+			children = (
+				14CAC694171B4CCB005EA308 /* attribution.txt */,
+				14CAC695171B4CCB005EA308 /* centipede.jpg */,
+				14CAC696171B4CCB005EA308 /* centipedeThumb.jpg */,
+				14CAC697171B4CCB005EA308 /* ladybug.jpg */,
+				14CAC698171B4CCB005EA308 /* ladybugThumb.jpg */,
+				14CAC699171B4CCB005EA308 /* potatoBug.jpg */,
+				14CAC69A171B4CCB005EA308 /* potatoBugThumb.jpg */,
+				14CAC69B171B4CCB005EA308 /* wolfSpider.jpg */,
+				14CAC69C171B4CCB005EA308 /* wolfSpiderThumb.jpg */,
+			);
+			path = ScaryBugs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -156,6 +209,16 @@
 				14CAC676171B462C005EA308 /* InfoPlist.strings in Resources */,
 				14CAC67C171B462C005EA308 /* Credits.rtf in Resources */,
 				14CAC682171B462D005EA308 /* MainMenu.xib in Resources */,
+				14CAC68C171B46E6005EA308 /* MasterViewController.xib in Resources */,
+				14CAC69D171B4CCB005EA308 /* attribution.txt in Resources */,
+				14CAC69E171B4CCB005EA308 /* centipede.jpg in Resources */,
+				14CAC69F171B4CCB005EA308 /* centipedeThumb.jpg in Resources */,
+				14CAC6A0171B4CCB005EA308 /* ladybug.jpg in Resources */,
+				14CAC6A1171B4CCB005EA308 /* ladybugThumb.jpg in Resources */,
+				14CAC6A2171B4CCB005EA308 /* potatoBug.jpg in Resources */,
+				14CAC6A3171B4CCB005EA308 /* potatoBugThumb.jpg in Resources */,
+				14CAC6A4171B4CCB005EA308 /* wolfSpider.jpg in Resources */,
+				14CAC6A5171B4CCB005EA308 /* wolfSpiderThumb.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,6 +231,9 @@
 			files = (
 				14CAC678171B462C005EA308 /* main.m in Sources */,
 				14CAC67F171B462C005EA308 /* AppDelegate.m in Sources */,
+				14CAC68B171B46E6005EA308 /* MasterViewController.m in Sources */,
+				14CAC68F171B4997005EA308 /* ScaryBugData.m in Sources */,
+				14CAC692171B4A5F005EA308 /* ScaryBugDoc.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
